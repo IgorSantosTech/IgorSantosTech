@@ -1,4 +1,4 @@
-# Olá, eu sou Igor Santos! 👋
+# Olá, eu sou Igor Santos! 
 
 **Estudante de Sistemas de Informação · Desenvolvedor Backend em formação**
 📍 Itapema, Santa Catarina, Brasil
@@ -40,9 +40,6 @@ Sou estudante de **Sistemas de Informação** na Uniavan (2023–2026), com foco
         ### 🎮 [Pokemon](https://github.com/IgorSantosTech/Pokemon)
         Projeto prático explorando consumo de APIs e integração backend-frontend.
 
-        ### 💻 [PGRMI---I](https://github.com/IgorSantosTech/PGRMI---I)
-        Projeto final da disciplina de Programação — primeiro nível da graduação.
-
         ---
 
         ## 📊 GitHub Stats
@@ -52,4 +49,4 @@ Sou estudante de **Sistemas de Informação** na Uniavan (2023–2026), com foco
 
         ---
 
-        *"A melhor forma de aprender é construindo."* 🚀
+        *"A melhor forma de aprender é construindo."*
