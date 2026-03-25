@@ -1,18 +1,9 @@
-<h1 align="center">Olá, eu sou Igor Santos! 👋</h1>h1>
+# Olá, eu sou Igor Santos! 👋
 
-<p align="center">
-  <b>Estudante de Sistemas de Informação · Desenvolvedor Backend em formação</b>b><br>
-    <i>Itapema, Santa Catarina, Brasil 🇧🇷</i>i>
-</p>p>
+**Estudante de Sistemas de Informação · Desenvolvedor Backend em formação**
+📍 Itapema, Santa Catarina, Brasil
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/igor-santos-617217389/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Igor%20Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>a>
-    <a href="mailto:igor@email.com">
-          <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>a>
-</p>p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor%20Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-santos-617217389/)
 
 ---
 
@@ -30,16 +21,14 @@ Sou estudante de **Sistemas de Informação** na Uniavan (2023–2026), com foco
 
         ## 🛠️ Tecnologias e Ferramentas
 
-        <p align="left">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-            <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-              <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-                <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-                  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-                    <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-                      <img src="https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=diagrams.net&logoColor=black" />
-                        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-        </p>p>
+        ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+        ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+        ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+        ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+        ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+        ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+        ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+        ![UML](https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logoColor=black)
 
         ---
 
@@ -56,23 +45,11 @@ Sou estudante de **Sistemas de Informação** na Uniavan (2023–2026), com foco
 
         ---
 
-        ## 📜 Certificações
+        ## 📊 GitHub Stats
 
-        - 🏅 **Redes de Computadores - Módulo 2: TCP/IP e Wi-Fi** — Estudonauta (mai/2024)
-        - - 🏅 **Redes de Computadores - Módulo 1: Cabeamento** — Estudonauta (nov/2023)
-         
-          - ---
+        ![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorSantosTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantosTech&layout=compact&langs_count=7&theme=tokyonight)
 
-          ## 📊 GitHub Stats
+        ---
 
-          <p align="center">
-            <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IgorSantosTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-              <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantosTech&layout=compact&langs_count=7&theme=tokyonight" />
-          </p>p>
-
-          ---
-
-          <p align="center">
-            <i>"A melhor forma de aprender é construindo."</i>i> 🚀
-          </p>p></i>
-  </i></b>
+        *"A melhor forma de aprender é construindo."* 🚀
